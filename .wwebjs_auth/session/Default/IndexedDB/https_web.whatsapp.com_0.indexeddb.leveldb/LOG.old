@@ -1,0 +1,93 @@
+2022/12/26-23:41:04.096 e303 Reusing MANIFEST /Users/bunyamindemir/Desktop/wp/untitled/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/26-23:41:04.096 e303 Recovering log #488
+2022/12/26-23:41:04.114 e303 Reusing old log /Users/bunyamindemir/Desktop/wp/untitled/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000488.log 
+2022/12/26-23:41:15.439 f403 Level-0 table #508: started
+2022/12/26-23:41:15.471 f403 Level-0 table #508: 1182986 bytes OK
+2022/12/26-23:41:15.507 f403 Delete type=0 #488
+2022/12/26-23:41:15.697 8903 Compacting 1@0 + 0@1 files
+2022/12/26-23:41:15.732 8903 Generated table #509@0: 20203 keys, 437087 bytes
+2022/12/26-23:41:15.752 8903 Generated table #510@0: 2754 keys, 57872 bytes
+2022/12/26-23:41:15.752 8903 Compacted 1@0 + 0@1 files => 494959 bytes
+2022/12/26-23:41:15.805 8903 compacted to: files[ 0 2 14 0 0 0 0 ]
+2022/12/26-23:41:15.805 8903 Delete type=2 #508
+2022/12/26-23:41:15.812 6b03 Compacting 1@1 + 10@2 files
+2022/12/26-23:41:15.881 6b03 Generated table #511@1: 40798 keys, 2245794 bytes
+2022/12/26-23:41:15.917 6b03 Generated table #512@1: 3682 keys, 2164950 bytes
+2022/12/26-23:41:15.952 6b03 Generated table #513@1: 3762 keys, 2158309 bytes
+2022/12/26-23:41:15.989 6b03 Generated table #514@1: 4021 keys, 2163803 bytes
+2022/12/26-23:41:16.011 6b03 Generated table #515@1: 4313 keys, 2158145 bytes
+2022/12/26-23:41:16.065 6b03 Generated table #516@1: 34900 keys, 2252781 bytes
+2022/12/26-23:41:16.117 6b03 Generated table #517@1: 29437 keys, 2262666 bytes
+2022/12/26-23:41:16.160 6b03 Generated table #518@1: 19426 keys, 2157883 bytes
+2022/12/26-23:41:16.210 6b03 Generated table #519@1: 39559 keys, 2171703 bytes
+2022/12/26-23:41:16.272 6b03 Generated table #520@1: 101370 keys, 2252630 bytes
+2022/12/26-23:41:16.294 6b03 Generated table #521@1: 9091 keys, 207677 bytes
+2022/12/26-23:41:16.294 6b03 Compacted 1@1 + 10@2 files => 22196341 bytes
+2022/12/26-23:41:16.327 6b03 compacted to: files[ 0 1 15 0 0 0 0 ]
+2022/12/26-23:41:18.429 6707 Compacting 1@1 + 4@2 files
+2022/12/26-23:41:18.591 6707 Generated table #522@1: 99962 keys, 2249166 bytes
+2022/12/26-23:41:18.651 6707 Generated table #523@1: 99482 keys, 2248584 bytes
+2022/12/26-23:41:18.691 6707 Generated table #524@1: 46414 keys, 1055880 bytes
+2022/12/26-23:41:18.691 6707 Compacted 1@1 + 4@2 files => 5553630 bytes
+2022/12/26-23:41:18.727 6707 compacted to: files[ 0 0 14 0 0 0 0 ]
+2022/12/26-23:41:18.727 6707 Delete type=2 #499
+2022/12/26-23:41:18.727 6707 Delete type=2 #498
+2022/12/26-23:41:18.727 6707 Delete type=2 #505
+2022/12/26-23:41:18.727 6707 Delete type=2 #510
+2022/12/26-23:41:18.727 6707 Delete type=2 #504
+2022/12/26-23:41:18.727 6707 Delete type=2 #500
+2022/12/26-23:41:18.727 6707 Delete type=2 #501
+2022/12/26-23:41:18.727 6707 Delete type=2 #503
+2022/12/26-23:41:18.727 6707 Delete type=2 #502
+2022/12/26-23:41:18.727 6707 Delete type=2 #493
+2022/12/26-23:41:18.727 6707 Delete type=2 #492
+2022/12/26-23:41:18.727 6707 Delete type=2 #496
+2022/12/26-23:41:18.727 6707 Delete type=2 #509
+2022/12/26-23:41:18.727 6707 Delete type=2 #497
+2022/12/26-23:41:18.727 6707 Delete type=2 #495
+2022/12/26-23:41:18.728 6707 Delete type=2 #494
+2022/12/26-23:41:51.719 6707 Level-0 table #526: started
+2022/12/26-23:41:51.766 6707 Level-0 table #526: 1163045 bytes OK
+2022/12/26-23:41:51.810 6707 Delete type=0 #507
+2022/12/26-23:41:52.751 6707 Compacting 1@0 + 0@1 files
+2022/12/26-23:41:52.795 6707 Generated table #527@0: 25589 keys, 473883 bytes
+2022/12/26-23:41:52.820 6707 Generated table #528@0: 9227 keys, 208496 bytes
+2022/12/26-23:41:52.821 6707 Compacted 1@0 + 0@1 files => 682379 bytes
+2022/12/26-23:41:52.856 6707 compacted to: files[ 0 2 14 0 0 0 0 ]
+2022/12/26-23:41:52.857 6707 Delete type=2 #526
+2022/12/26-23:41:53.792 ec03 Compacting 1@1 + 10@2 files
+2022/12/26-23:41:53.869 ec03 Generated table #529@1: 41338 keys, 2249368 bytes
+2022/12/26-23:41:53.911 ec03 Generated table #530@1: 3680 keys, 2164200 bytes
+2022/12/26-23:41:53.949 ec03 Generated table #531@1: 3783 keys, 2157844 bytes
+2022/12/26-23:41:53.985 ec03 Generated table #532@1: 4014 keys, 2162711 bytes
+2022/12/26-23:41:54.022 ec03 Generated table #533@1: 4317 keys, 2157915 bytes
+2022/12/26-23:41:54.077 ec03 Generated table #534@1: 34625 keys, 2250816 bytes
+2022/12/26-23:41:54.116 ec03 Generated table #535@1: 29460 keys, 2262394 bytes
+2022/12/26-23:41:54.155 ec03 Generated table #536@1: 19642 keys, 2159976 bytes
+2022/12/26-23:41:54.197 ec03 Generated table #537@1: 32585 keys, 2162086 bytes
+2022/12/26-23:41:54.256 ec03 Generated table #538@1: 103005 keys, 2256059 bytes
+2022/12/26-23:41:54.279 ec03 Generated table #539@1: 10890 keys, 247309 bytes
+2022/12/26-23:41:54.279 ec03 Compacted 1@1 + 10@2 files => 22230678 bytes
+2022/12/26-23:41:54.316 ec03 compacted to: files[ 0 1 15 0 0 0 0 ]
+2022/12/26-23:41:54.316 ec03 Delete type=2 #512
+2022/12/26-23:41:54.316 ec03 Delete type=2 #513
+2022/12/26-23:41:54.316 ec03 Delete type=2 #511
+2022/12/26-23:41:54.316 ec03 Delete type=2 #514
+2022/12/26-23:41:54.316 ec03 Delete type=2 #515
+2022/12/26-23:41:54.316 ec03 Delete type=2 #517
+2022/12/26-23:41:54.316 ec03 Delete type=2 #516
+2022/12/26-23:41:54.316 ec03 Delete type=2 #527
+2022/12/26-23:41:54.316 ec03 Delete type=2 #518
+2022/12/26-23:41:54.316 ec03 Delete type=2 #519
+2022/12/26-23:41:54.316 ec03 Delete type=2 #520
+2022/12/26-23:41:54.812 e303 Compacting 1@1 + 4@2 files
+2022/12/26-23:41:54.917 e303 Generated table #540@1: 100046 keys, 2249603 bytes
+2022/12/26-23:41:54.975 e303 Generated table #541@1: 99957 keys, 2248454 bytes
+2022/12/26-23:41:55.039 e303 Generated table #542@1: 64173 keys, 1460524 bytes
+2022/12/26-23:41:55.039 e303 Compacted 1@1 + 4@2 files => 5958581 bytes
+2022/12/26-23:41:55.076 e303 compacted to: files[ 0 0 14 0 0 0 0 ]
+2022/12/26-23:41:55.076 e303 Delete type=2 #528
+2022/12/26-23:41:55.076 e303 Delete type=2 #524
+2022/12/26-23:41:55.076 e303 Delete type=2 #521
+2022/12/26-23:41:55.076 e303 Delete type=2 #522
+2022/12/26-23:41:55.076 e303 Delete type=2 #523
